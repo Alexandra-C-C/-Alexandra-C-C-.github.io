@@ -29,7 +29,7 @@
 ## Year 3
 
 - CMP308 & CMP311 [Group Project](https://github.com/notdeclan/network-guardian)
-  - Grade: ?
+  - Grades: 
 - Ethical Hacking 2&3 to be added
 
 ## Year 4
