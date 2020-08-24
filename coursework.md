@@ -11,9 +11,11 @@
   - Lanaguages:
     - PHP
     - HTML
-    - JavaScript
-    - CSS
     - Bootstrap
+    - CSS
+    - JavaScript
+    - AJAX
+    - jQuery
   - Grade: A+
 - CMP20x [Data Structures and Algorithms](https://github.com/Aliisace/Data-Structures)
   - Pathfinding Algorithms:
@@ -25,6 +27,8 @@
   - Languages:
     - Python
     - Bash
+- CMP209 [Digital Forensics](https://github.com/Aliisace/Digital-Forensics)
+  - Scripts used to streamline examination of the suspects hard drive
 
 ## Year 3
 
