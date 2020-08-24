@@ -1,3 +1,5 @@
 # Readme for Aliisace.github.io
 
-TODO: add module codes to coursework and eh2&3
+TODO: 
+- Add module codes to coursework,md
+- Add grades to coursework.md
