@@ -29,6 +29,7 @@
     - Bash
 - CMP209 [Digital Forensics](https://github.com/Aliisace/Digital-Forensics)
   - Scripts used to streamline examination of the suspects hard drive
+  - Language: bash
 
 ## Year 3
 
