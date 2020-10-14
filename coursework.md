@@ -2,11 +2,11 @@
 
 ## Year 1
 
-- Feedback Week: [Caesar Cipher in c++](https://github.com/Aliisace/Uncatagorised-Projects/blob/master/Uni/Year1/Review_Week/Caesar%20Cipher.cpp)
+- Feedback Week: [Caesar Cipher in c++](https://github.com/AeroAli/Uncatagorised-Projects/blob/master/Uni/Year1/Review_Week/Caesar%20Cipher.cpp)
 
 ## Year 2
 
-- CMP204 [Website Development](https://github.com/Aliisace/Website-Development)
+- CMP204 [Website Development](https://github.com/AeroAli/Website-Development)
   - Source Code for Website
   - Lanaguages:
     - PHP
@@ -17,17 +17,17 @@
     - AJAX
     - jQuery
   - Grade: A+
-- CMP20x [Data Structures and Algorithms](https://github.com/Aliisace/Data-Structures)
+- CMP20x [Data Structures and Algorithms](https://github.com/AeroAli/Data-Structures)
   - Pathfinding Algorithms:
     - A Star
     - Lee
   - Language: C++
-- CMP2xx [Ethical Hacking](https://github.com/Aliisace/Final-Submission-Automation)
+- CMP2xx [Ethical Hacking](https://github.com/AeroAli/Final-Submission-Automation)
   - Automation for final coursework submission
   - Languages:
     - Python
     - Bash
-- CMP209 [Digital Forensics](https://github.com/Aliisace/Digital-Forensics)
+- CMP209 [Digital Forensics](https://github.com/AeroAli/Digital-Forensics)
   - Scripts used to streamline examination of the suspects hard drive
   - Language: bash
 
