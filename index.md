@@ -1,6 +1,6 @@
 # Alexandra Cherry
 
-Please see my [GitHub](https://github.com/Aliisace/) for my projects
+Please see my [GitHub](https://github.com/AeroAli/) for my projects
 
 ## About Me
 
