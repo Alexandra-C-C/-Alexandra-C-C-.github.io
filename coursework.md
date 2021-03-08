@@ -34,9 +34,21 @@
 ## Year 3
 
 - CMP308 & CMP311 [Group Project](https://github.com/notdeclan/network-guardian)
-  - Grades: 
+  - Grade: ??
+  - Languages:
+    - Python
+    - Flask
+    - Jinja2
 - Ethical Hacking 2&3 to be added
 
 ## Year 4
 
-Not started yet
+- CMP400 & CMP400 Honours Project
+  - Languages:
+    - Python
+    - Bash
+    - Django
+- CMP4?? Digital Forensics 2
+- CMP4?? System Internals
+- CMP4?? Secure Development
+
