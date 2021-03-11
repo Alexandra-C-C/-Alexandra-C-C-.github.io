@@ -29,7 +29,7 @@
     - Bash
 - CMP209 [Digital Forensics](https://github.com/AeroAli/Digital-Forensics)
   - Scripts used to streamline examination of the suspects hard drive
-  - Language: bash
+  - Language: Bash
 
 ## Year 3
 
@@ -48,7 +48,8 @@
     - Python
     - Bash
     - Django
-- CMP4?? Digital Forensics 2
-- CMP4?? System Internals
-- CMP4?? Secure Development
-
+- CMP416 Digital Forensics 2
+  - Language: Python
+- CMP408 System Internals and Cyber Security
+  - Language: Python
+- CMP417 Engineering Resilient Systems
