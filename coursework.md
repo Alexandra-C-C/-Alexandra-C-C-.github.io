@@ -40,6 +40,13 @@
     - Flask
     - Jinja2
 - Ethical Hacking 2&3 to be added
+- CMP320: Ethical Hacking 3
+  - [Unit 1: Exploit Development](https://github.com/AeroAli/Exploit-Development)
+    - Grade: A+
+    - Language: Perl
+      - Perl
+  - Unit 1: Mini Project
+    - Grade: A+
 
 ## Year 4
 
