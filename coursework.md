@@ -43,10 +43,9 @@
 
 ## Year 4
 
-- CMP400 & CMP400 Honours Project
+- CMP400 & CMP403 Honours Project
   - Languages:
     - Python
-    - Bash
     - Django
 - CMP416 Digital Forensics 2
   - Language: Python
