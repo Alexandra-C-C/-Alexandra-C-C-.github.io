@@ -33,19 +33,22 @@
 
 ## Year 3
 
-- CMP308 & CMP311 [Group Project](https://github.com/notdeclan/network-guardian)
-  - Grade: ??
+- CMP308 Professional Project Planning and Prototyping & CMP311 Professional Project Development and Delivery 
+  - [Group Project](https://github.com/notdeclan/network-guardian)
+  - Grades: B+ & B+
   - Languages:
     - Python
     - Flask
     - Jinja2
-- Ethical Hacking 2&3 to be added
+- CMP319 Ethical Hacking 2 Web Application Hacking
+  - Grade: A+
 - CMP320: Ethical Hacking 3
   - [Unit 1: Exploit Development](https://github.com/AeroAli/Exploit-Development)
     - Grade: A+
     - Language: Perl
       - Perl
   - Unit 1: Mini Project
+    - Comparison of Web Application Scanners
     - Grade: A+
 
 ## Year 4
