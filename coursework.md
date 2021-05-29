@@ -17,12 +17,12 @@
     - AJAX
     - jQuery
   - Grade: A+
-- CMP20x [Data Structures and Algorithms](https://github.com/AeroAli/Data-Structures)
+- CMP201 [Data Structures and Algorithms](https://github.com/AeroAli/Data-Structures)
   - Pathfinding Algorithms:
     - A Star
     - Lee
   - Language: C++
-- CMP2xx [Ethical Hacking](https://github.com/AeroAli/Final-Submission-Automation)
+- CMP210 [Ethical Hacking](https://github.com/AeroAli/Final-Submission-Automation)
   - Automation for final coursework submission
   - Languages:
     - Python
@@ -33,25 +33,33 @@
 
 ## Year 3
 
-- CMP308 Professional Project Planning and Prototyping & CMP311 Professional Project Development and Delivery 
+- CMP308 Professional Project Planning and Prototyping & CMP311 Professional Project Development and Delivery
   - [Group Project](https://github.com/notdeclan/network-guardian)
   - Grades: B+ & B+
   - Languages:
     - Python
     - Flask
     - Jinja2
+- CMP314: [Networking 2](https://github.com/AeroAli/CMP314-Networking-2)
+  - Grade: B
+  - Language: Python
 - CMP319 Ethical Hacking 2 Web Application Hacking
   - Grade: A+
+  - [Report](Reports\CMP319-Report-Part_2-1700315.pdf)
 - CMP320: Ethical Hacking 3
   - [Unit 1: Exploit Development](https://github.com/AeroAli/Exploit-Development)
     - Grade: A+
     - Language: Perl
       - Perl
-  - Unit 1: Mini Project
+  - Unit 2: Mini Project
     - Comparison of Web Application Scanners
     - Grade: A+
+    - [Report](Reports\CMP320_U2-1700315.pdf)
+    - [Wapiti and ZAP Reports](https://github.com/Aliisace/Mini-Project-Scanner-Reports)
 
 ## Year 4
+
+Year 4 will be added post graduation
 
 - CMP400 & CMP403 Honours Project
   - Languages:
