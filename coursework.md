@@ -17,11 +17,6 @@
     - AJAX
     - jQuery
   - Grade: A+
-- CMP201 [Data Structures and Algorithms](https://github.com/AeroAli/Data-Structures)
-  - Pathfinding Algorithms:
-    - A Star
-    - Lee
-  - Language: C++
 - CMP210 [Ethical Hacking](https://github.com/AeroAli/Final-Submission-Automation)
   - Automation for final coursework submission
   - Languages:
@@ -59,7 +54,7 @@
 
 ## Year 4
 
-Year 4 will be added post graduation
+Year 4 will be added at some point
 
 - CMP400 & CMP403 Honours Project
   - Languages:
