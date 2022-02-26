@@ -1,4 +1,4 @@
-# Readme for  Alexandra-C-C.github.io
+# Readme for  AeroAli.github.io
 
 TODO: 
 - Add module codes to coursework,md
