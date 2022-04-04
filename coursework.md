@@ -29,7 +29,7 @@
 ## Year 3
 
 - CMP308 Professional Project Planning and Prototyping & CMP311 Professional Project Development and Delivery
-  - [Group Project](https://github.com/notdeclan/network-guardian)
+  - Group Project
   - Grades: B+ & B+
   - Languages:
     - Python
@@ -54,14 +54,15 @@
 
 ## Year 4
 
-Year 4 will be added at some point
+Year 4 will be added soon
 
 - CMP400 & CMP403 Honours Project
   - Languages:
     - Python
     - Django
 - CMP416 Digital Forensics 2
-  - Language: Python
+  - Grade: C+
+  - Language: Python, Bash
 - CMP408 System Internals and Cyber Security
   - Language: Python
 - CMP417 Engineering Resilient Systems
