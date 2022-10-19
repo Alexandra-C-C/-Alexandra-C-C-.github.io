@@ -2,11 +2,11 @@
 
 ## Year 1
 
-- Feedback Week: [Caesar Cipher in c++](https://github.com/AeroAli/Uncatagorised-Projects/blob/master/Uni/Year1/Review_Week/Caesar%20Cipher.cpp)
+- Feedback Week: [Caesar Cipher in c++](https://github.com/super-sonicali/Uncatagorised-Projects/blob/master/Uni/Year1/Review_Week/Caesar%20Cipher.cpp)
 
 ## Year 2
 
-- CMP204 [Website Development](https://github.com/AeroAli/Website-Development)
+- CMP204 [Website Development](https://github.com/super-sonicali/Website-Development)
   - Source Code for Website
   - Lanaguages:
     - PHP
@@ -17,12 +17,12 @@
     - AJAX
     - jQuery
   - Grade: A+
-- CMP210 [Ethical Hacking](https://github.com/AeroAli/Final-Submission-Automation)
+- CMP210 [Ethical Hacking](https://github.com/super-sonicali/Final-Submission-Automation)
   - Automation for final coursework submission
   - Languages:
     - Python
     - Bash
-- CMP209 [Digital Forensics](https://github.com/AeroAli/Digital-Forensics)
+- CMP209 [Digital Forensics](https://github.com/super-sonicali/Digital-Forensics)
   - Scripts used to streamline examination of the suspects hard drive
   - Language: Bash
 
@@ -35,14 +35,14 @@
     - Python
     - Flask
     - Jinja2
-- CMP314: [Networking 2](https://github.com/AeroAli/CMP314-Networking-2)
+- CMP314: [Networking 2](https://github.com/super-sonicali/CMP314-Networking-2)
   - Grade: B
   - Language: Python
 - CMP319 Ethical Hacking 2 Web Application Hacking
   - Grade: A+
   - [Report](Reports\CMP319-Report-Part_2-1700315.pdf)
 - CMP320: Ethical Hacking 3
-  - [Unit 1: Exploit Development](https://github.com/AeroAli/Exploit-Development)
+  - [Unit 1: Exploit Development](https://github.com/super-sonicali/Exploit-Development)
     - Grade: A+
     - Language: Perl
       - Perl

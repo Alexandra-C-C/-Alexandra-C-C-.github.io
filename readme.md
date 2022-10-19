@@ -1,4 +1,4 @@
-# Readme for  AeroAli.github.io
+# Readme for  super-sonicali.github.io
 
 TODO: 
 - Add module codes to coursework,md
